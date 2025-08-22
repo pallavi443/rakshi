@@ -1,1 +1,1 @@
-console.log("Hello! click button.");
+console.log("Hello! click the  button.");
